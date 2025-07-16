@@ -1,0 +1,5 @@
+print(10 + 30 + 5 - 20 / 2)
+print(50 - 25 * 2)
+print("Chico")
+print(True)
+print(False)
